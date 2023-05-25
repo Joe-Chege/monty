@@ -1,7 +1,5 @@
 #include "monty.h"
 #include "lists.h"
-#include <stdio.h>
-#include <stdlib.h>
 
 /**
  * pint_handler - handles the pint instruction
@@ -110,16 +108,4 @@ void nop_handler(stack_t **stack, unsigned int line_number)
 {
 	(void)stack;
 	(void)line_number;
-}
-
-/**
- * main - entry point of the program
- *
- * Return: 0 on success
- */
-int main(void)
-{
-	/* Add your test code or main logic here */
-
-	return 0;
 }
