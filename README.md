@@ -515,4 +515,10 @@ Add two digits given by the user.
 $ amonkeyprogrammer@ubuntu:~/monty/bf$ bf ./1001-add.bf
 81
 9$ amonkeyprogrammer@ubuntu:~/monty/bf$ 
-```
+
+## Acknowledgments
+
+- ALX Community
+- Hat tip to anyone whose code was used
+
+
